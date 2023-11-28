@@ -57,7 +57,7 @@ export default {
                     </div>
                 </div>
                 <div class="col-6">
-                    <!-- <img src="../assets/img/dc-logo-bg.png" alt=""> -->
+                    <img src="../assets/img/dc-logo-bg.png" alt="">
                 </div>
             </div>
         </div>
@@ -81,6 +81,11 @@ section {
 
 img {
     object-fit: contain;
+    height: 100%;
+    overflow: hidden;
+}
+
+.col-6 {
     height: 100%;
 }
 
