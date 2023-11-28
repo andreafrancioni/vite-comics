@@ -4,6 +4,7 @@ import AppHeader from './components/AppHeader.vue'
 import AppContent from './components/AppContent.vue'
 import AppFooter from './components/AppFooter.vue'
 import AppIcons from './components/AppIcons.vue'
+import AppSignUpBanner from './components/AppSignUpBanner.vue'
 
 export default {
   components: {
@@ -11,6 +12,7 @@ export default {
     AppContent,
     AppFooter,
     AppIcons,
+    AppSignUpBanner
   }
 }
 </script>
@@ -24,6 +26,7 @@ export default {
   </main>
   <footer>
     <AppFooter />
+    <AppSignUpBanner />
   </footer>
 </template>
 
