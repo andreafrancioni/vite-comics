@@ -15,23 +15,23 @@ export default {
         <div class="comicsCards d-flex justify-content-center align-items-center">
             <div class="comicsCard">
                 <img src="../assets/img/buy-comics-digital-comics.png" alt="">
-                <span>DIGITAL COMICS</span>
+                <span class="mx-2">DIGITAL COMICS</span>
             </div>
             <div class="comicsCard">
                 <img src="../assets/img/buy-comics-merchandise.png" alt="">
-                <span>DC MERCHANDISE</span>
+                <span class="mx-2">DC MERCHANDISE</span>
             </div>
             <div class="comicsCard">
                 <img src="../assets/img/buy-comics-shop-locator.png" alt="">
-                <span>SHOP LOCATOR</span>
+                <span class="mx-2">SHOP LOCATOR</span>
             </div>
             <div class="comicsCard">
                 <img src="../assets/img/buy-comics-subscriptions.png" alt="">
-                <span>SUBSCRIPTION</span>
+                <span class="mx-2">SUBSCRIPTION</span>
             </div>
             <div class="comicsCard">
                 <img src="../assets/img/buy-dc-power-visa.svg" alt="">
-                <span>POWER VISA</span>
+                <span class="mx-2">POWER VISA</span>
             </div>
         </div>
     </section>
