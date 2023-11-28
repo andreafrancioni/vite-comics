@@ -67,23 +67,22 @@ export default {
 <style scoped>
 section {
     background-image: url(../assets/img/footer-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 400px;
     color: white;
 }
 
 .footerMenu {
     height: 100%;
+    overflow: hidden;
 }
 
 .row {
     height: 100%;
 }
 
-img {
-    object-fit: contain;
-    height: 100%;
-    overflow: hidden;
-}
+img {}
 
 .col-6 {
     height: 100%;

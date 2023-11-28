@@ -12,7 +12,7 @@ export default {
 
 <template>
     <section class="bg-banner">
-        <div class="comicsCards d-flex justify-content-center align-items-center">
+        <div class="comicsCards container d-flex justify-content-center align-items-center">
             <div class="comicsCard">
                 <img src="../assets/img/buy-comics-digital-comics.png" alt="">
                 <span class="mx-2">DIGITAL COMICS</span>
