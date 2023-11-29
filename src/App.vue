@@ -1,7 +1,7 @@
 <script>
 
 import AppHeader from './components/AppHeader.vue'
-import AppContent from './components/AppContent.vue'
+import AppJumbo from './components/AppJumbo.vue'
 import AppFooter from './components/AppFooter.vue'
 import AppIcons from './components/AppIcons.vue'
 import AppSignUpBanner from './components/AppSignUpBanner.vue'
@@ -9,7 +9,7 @@ import AppSignUpBanner from './components/AppSignUpBanner.vue'
 export default {
   components: {
     AppHeader,
-    AppContent,
+    AppJumbo,
     AppFooter,
     AppIcons,
     AppSignUpBanner
@@ -21,7 +21,7 @@ export default {
   <AppHeader />
   <main>
 
-    <AppContent />
+    <AppJumbo />
     <AppIcons />
   </main>
   <footer>
